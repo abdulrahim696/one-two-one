@@ -1,5 +1,3 @@
-package hn;
-
 public class jhj {
 
 	public static void main(String[] args) {
